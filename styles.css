@@ -3,4 +3,7 @@
 	text-align: center;
 	font-size: 0.7em;
 }
+#example tr {
+	height: 2%;
+}
 
