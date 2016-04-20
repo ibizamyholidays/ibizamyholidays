@@ -1,6 +1,6 @@
 var dataset = [
 		{
-			visible: false, "index": 0,
+			visible: true, "index": 0,
 			"name": "SA-14",
 			"data": [
 				[
@@ -4816,11 +4816,6 @@ var dataset = [
 					1
 				]
 			]
-		},
-		{
-		    visible: true,
-		    index: 999,
-		    name: "",
 		}
 	];
 
