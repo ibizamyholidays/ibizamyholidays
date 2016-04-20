@@ -1,6 +1,7 @@
 var dataset = [
 		{
-			visible: true, "index": 0,
+			//visible: true, 
+			"index": 0,
 			"name": "SA-14",
 			"data": [
 				[
